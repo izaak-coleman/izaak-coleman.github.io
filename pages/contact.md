@@ -4,7 +4,7 @@ permalink: /contact/
 title: Contact
 show_meta: false
 published: true
-description: "Contact example.com"
+description: "Contact https://izaak-coleman.github.io/"
 comments: false
 mathjax: false
 noindex: false
@@ -20,11 +20,9 @@ tags:
 
 | <i class="fa fa-twitter"></i> | [@{{ site.owner.twitter }}](https://twitter.com/{{ site.owner.twitter }})  | 
 | - | :- |
-| <i class="fa fa-envelope"></i> | foo<br>XYZ<br>1234 ABC ST<br>Washington, DC 11111   | 
+| <i class="fa fa-envelope"></i> | 50 Haven Avenue<br>Mailbox B-186 <br> New York, NY 10032  | 
 | - | :- |
-| <i class="fa fa-car"></i>  | [Driving directions]({{ site.url }}/directions) | 
-| - | :- |
-| <i class="fa fa-paper-plane">  | foo@xyz | 
+| <i class="fa fa-paper-plane">  | izaak.coleman1@gmail.com; ic2465@cumc.columbia.edu | 
 | - | :- |
 
 <a href="https://twitter.com/share" class="twitter-share-button" data-via="{{ site.owner.twitter }}" data-size="small" data-dnt="true">Tweet</a> <a href="javascript:window.print()" class="social-icons" title="Printer friendly format"><i class="fa fa-print"></i></a>
