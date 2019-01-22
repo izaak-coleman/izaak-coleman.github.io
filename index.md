@@ -5,10 +5,12 @@ title: Izaak Coleman
 description: "My resume, research and posts on life."
 ---
 
-## Systems Biology Ph.D Candidate at Columbia University in New York City
-A personal website regarding my [experience](https://izaak-coleman.github.io/about/), 
+#Izaak Coleman
+#Systems Biology Ph.D Candidate \s\s
+## @ [Columbia University in the City of New York](https://www.columbia.edu/)
+An exposition of my [experience](https://izaak-coleman.github.io/about/), 
 [research](https://izaak-coleman.github.io/publications),
-and [posts on life](https://izaak-coleman.github.io/blog/).
+and [thoughts on life](https://izaak-coleman.github.io/blog/).
 
 Maximum four posts on front page where first two posts are featured, and remaining are date sorted.
 
