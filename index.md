@@ -6,7 +6,7 @@ description: "My resume, research and posts on life."
 ---
 
 # **Izaak Coleman**
-### **Systems Biology Ph.D Candidate** @ [Columbia University in the City of New York](https://www.columbia.edu/)
+### **Systems Biology Ph.D Candidate** @ [Columbia University](https://www.columbia.edu/)
 
 An exposition of my [experience](https://izaak-coleman.github.io/about/), 
 [research](https://izaak-coleman.github.io/publications),
