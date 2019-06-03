@@ -8,7 +8,7 @@ encoding: utf-8
 
 # Setup
 title:               Izaak Coleman
-tagline:             blah
+tagline:             SysBio
 description:         My research, resume and posts on life. 
 #url: https://lanyon-plus.sbamin.com
 #baseurl: ""
@@ -52,25 +52,23 @@ author:
   name:              Izaak Coleman
   url:               https://twitter.com/abcd
   avatar:         Avatar.png
-  #email:           
+  email:           izaak.coleman1@gmail.com
 
 # Owner/author information
 owner:
   name:           Izaak Coleman
   avatar:         Avatar.png
-  #email:          
+  email:          izaak.coleman1@gmail.com
   # Use the coder's toolbox at http://coderstoolbox.net/string/#!encoding=xml&action=encode&charset=us_ascii to encode your description into XML string
   description:
   # Social networking links used in footer. Update and remove as you like.
-  twitter:        abcd
-  facebook:       
+#twitter:        abcd
   github:         https://github.com/izaak-coleman/
-  stackexchange:  
+#stackexchange:  
   linkedin:       https://www.linkedin.com/in/izaak-coleman/
-  instagram:      
-  flickr:
-  tumblr:  
-  google_plus:    https://plus.google.com/+foo
+#instagram:      
+#  flickr:
+#  tumblr:  
   # orcid and google scholar IDs are different than standard username.
   orcid: xyz123abc
   gscholar: xyz123abc
@@ -82,23 +80,24 @@ links:
     url: /
   - title: <i class="iconside iconm-user"></i> About
     url: /about/
+  - title: <i class="iconside iconm-user"></i> CV
+    url: /cv/
   - title: <i class="iconside iconm-quill"></i> Blog
     url: /blog/
   - title: <i class="fa fa-tags"></i> Tags
     url: /tags/
-  - title: <i class="fa fa-archive"></i> Archive
-    url: /archive/
-  - title: <i class="iconside iconm-wordpress"></i> Old Blog
-    url: https://foo.wordpress.com
     external: true
   - title: <i class="iconside iconm-envelop"></i> Contact
     url: /contact/
-  - title: <i class="iconside iconm-twitter"></i> Twitter
-    url: https://twitter.com/abcd
-    external: true
-  - title: <i class="iconside iconm-feed2"></i> Feed
-    url: /feed.xml
-
+#  - title: <i class="fa fa-archive"></i> Archive
+#    url: /archive/
+#  - title: <i class="iconside iconm-wordpress"></i> Old Blog
+#    url: https://foo.wordpress.com
+#  - title: <i class="iconside iconm-twitter"></i> Twitter
+#    url: https://twitter.com/abcd
+#    external: true
+#  - title: <i class="iconside iconm-feed2"></i> Feed
+#    url: /feed.xml
 # Google Custom Search:
 #google_search: xyz123abc
 
@@ -107,7 +106,7 @@ links:
 #twitter_widget_id: xyz123abc
 
 # Add disqus username for Disqus comment board:
-disqus_shortname: foo
+#disqus_shortname: foo
 
 # Analytics and webmaster tools stuff goes here
 #google_analytics:   xyz123abc

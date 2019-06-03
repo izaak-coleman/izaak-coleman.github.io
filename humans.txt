@@ -2,12 +2,9 @@
 ---
 
 /* TEAM */
-Primary Contact: foo
+Primary Contact: Izaak Coleman
 Site: {{ site.url }}/about/
 Twitter: https://twitter.com/{{ site.owner.twitter }}
-
-/* THANKS */
-Design Contributors: {{ site.url }}/disclosure/
 
 /* SITE */
 Last Updated: {{ site.time | date:"%Y/%m/%d" }}

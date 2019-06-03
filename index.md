@@ -2,6 +2,7 @@
 layout: default
 permalink: index.html
 title: Izaak Coleman 
+imagefeature: Avatar.png
 description: "My resume, research and posts on life."
 ---
 
@@ -12,7 +13,6 @@ An exposition of my [experience](https://izaak-coleman.github.io/about/),
 [research](https://izaak-coleman.github.io/publications),
 and [thoughts on life](https://izaak-coleman.github.io/blog/).
 
-Maximum four posts on front page where first two posts are featured, and remaining are date sorted.
 
 {% if site.twitter_widget_id %}
 <div class="text-tweets">
@@ -36,7 +36,7 @@ Twitter stream will show up here if `twitter_widget_id` is present is `_config.y
 {% endif %}
 
 <div class="posts">
-  {% for post in site.categories.featured limit:2 %}
+  {% for post in site.categories.featured limit:5 %}
   <div class="post">
     <h1 class="post-title">
       <a href="{{ site.url }}{{ post.url }}">
