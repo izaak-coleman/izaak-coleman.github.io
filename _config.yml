@@ -80,10 +80,12 @@ links:
     url: /
   - title: <i class="iconside iconm-user"></i> About
     url: /about/
-  - title: <i class="iconside iconm-user"></i> CV
-    url: /cv/
   - title: <i class="iconside iconm-quill"></i> Blog
     url: /blog/
+  - title: <i class="iconside iconm-user"></i> CV
+    url: /cv/
+  - title: <i class="iconside iconm-page"></i> Publications
+    url: /publications/
   - title: <i class="fa fa-tags"></i> Tags
     url: /tags/
     external: true
